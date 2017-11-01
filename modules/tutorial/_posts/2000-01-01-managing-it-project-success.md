@@ -11,4 +11,4 @@ title: Managing IT Projects (Success)
 
 ### Other resources
 
-Still not sure what a repository is, how to fork it or how to update contents?  Have a look at the <a href="https://help.github.com/articles/github-glossary" target="blank">GitHub Glossary</a> for explanations of all of these terms. 
+Any other resources will be listed here
