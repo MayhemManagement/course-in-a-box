@@ -9,17 +9,17 @@ published: true
 Read the following case studies & papers if you wish you can answer the following questions. Your answers can be submitted for feedback using the form below. 
 
 
-*Success Criteria*
+**Success Criteria**
 
 [Does risk management contribute to IT project success?](http://web.nchu.edu.tw/pweb/users/arborfish/lesson/10489.pdf)
 
 
-*Agile Development*
+**Agile Development**
 
 [Agile Project Management](https://www.researchgate.net/profile/Michael_Karlesky/publication/229042037_Agile_Project_Management/links/5512b1c70cf270fd7e3332b1.pdf)
 
 
-*Factors in Failure*
+**Factors in Failure**
 
 [IT Project Management: Infamous
 Failures, Classic Mistakes, and Best
