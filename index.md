@@ -6,13 +6,12 @@ published: true
 ## Project Management
 This is a course designed for distance learning, the course will give students a brief introduction to Porject Management and will cover the following topics:
 
-* Item
+* 
    Managing IT/IS projects
-* Item
+* 
    Project Risk Management
-* Item
+* 
    Project Scheduling
-* Item
 
 
 ## Course Structure
