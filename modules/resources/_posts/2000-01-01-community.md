@@ -6,7 +6,7 @@ published: true
 # Instructions
 
 
-Read the following case studies & papers if you wish you can answer the following questions. Your answers can be submitted for feedback using the form bellow. 
+Read the following case studies & papers if you wish you can answer the following questions. Your answers can be submitted for feedback using the form below. 
 
 
 * Success Criteria
