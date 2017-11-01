@@ -6,7 +6,7 @@ title: About this course
 
 
 
-this Course consists of 
+This Course consists of 
 
  - a tutorial module to guide you through the different topics.
  - a resource module to give you resources to use for self directed study.
