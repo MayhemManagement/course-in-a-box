@@ -11,5 +11,8 @@ title: Managing IT Projects (Failure)
 
 ### Other resources
 
+Download presentation:
 
-Any other resources will be listed here
+[Powerpoint](https://docs.google.com/presentation/d/1n6QS3FNXCWQ6TOjVOpcmLEkLCcb3KXY4QpRXVFvC4nM/export/ppt)
+
+[PDF](https://docs.google.com/presentation/d/1n6QS3FNXCWQ6TOjVOpcmLEkLCcb3KXY4QpRXVFvC4nM/export/pdf)
