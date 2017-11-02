@@ -10,8 +10,11 @@ title: Project Risk Management
 
 ### Other resources
 
+Download presentation:
 
-Any other resources will be listed here
+[Powerpoint](https://docs.google.com/presentation/d/1BLgdH1C5cl-LUqHG9mYwxMXmirpFa_FYt88MfQdC3Ig/export/ppt)
+
+[PDF](https://docs.google.com/presentation/d/1BLgdH1C5cl-LUqHG9mYwxMXmirpFa_FYt88MfQdC3Ig/export/pdf)
 
 
 
