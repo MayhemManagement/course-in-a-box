@@ -11,4 +11,6 @@ title: Managing IT Projects (Success)
 
 ### Other resources
 
-Any other resources will be listed here
+Download presentation:
+[Powerpoint](https://docs.google.com/presentation/d/1sYFHsXOt4qsoXHijRk8ihiFjoFvfHcDXrkMd9qDQlqE/export/ppt)
+[PDF](https://docs.google.com/presentation/d/1sYFHsXOt4qsoXHijRk8ihiFjoFvfHcDXrkMd9qDQlqE/export/pdf)
