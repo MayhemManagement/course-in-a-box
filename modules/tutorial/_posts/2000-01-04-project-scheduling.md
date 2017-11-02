@@ -11,4 +11,9 @@ title: Project Scheduling
 ### Other resources
 
 
-Any other resources will be listed here
+Download presentation:
+
+[Powerpoint](https://docs.google.com/presentation/d/1BLgdH1C5cl-LUqHG9mYwxMXmirpFa_FYt88MfQdC3Ig/export/ppt)
+
+[PDF](https://docs.google.com/presentation/d/1BLgdH1C5cl-LUqHG9mYwxMXmirpFa_FYt88MfQdC3Ig/export/pdf)
+
