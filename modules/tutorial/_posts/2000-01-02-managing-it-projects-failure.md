@@ -17,4 +17,4 @@ Download presentation:
 
 [PDF](https://docs.google.com/presentation/d/1sYFHsXOt4qsoXHijRk8ihiFjoFvfHcDXrkMd9qDQlqE/export/pdf)
 
-**Disclaimer** We recommend you download the slides as a PDF as powerpoint can change the formating of the slides from what was intented
+**Disclaimer**: it is recommended that you download the slides in PDF format. Powerpoint can change the formating of the slides from what was intented.
