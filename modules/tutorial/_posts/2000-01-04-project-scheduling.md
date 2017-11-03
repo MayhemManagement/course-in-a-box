@@ -4,7 +4,7 @@ title: Project Scheduling
 
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYdxMBAIpI0iuP5WjGkApAmsnHX_aD70JMrI5hjghn1I2rfSvYY1c-COlufci1OF8GBDK7aSeKvsD4/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSc_pNyF_07m5pU1hab6vkZdUD3A8mMEdROgjrKyJIbmXVpOVLREB8OTso4AVYpg6r393csI5-EGvcw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 
@@ -13,7 +13,7 @@ title: Project Scheduling
 
 Download presentation:
 
-[Powerpoint](https://docs.google.com/presentation/d/1BLgdH1C5cl-LUqHG9mYwxMXmirpFa_FYt88MfQdC3Ig/export/ppt)
+[Powerpoint](https://docs.google.com/presentation/d/1gPFh-97zQW-VzzClwgGQl_Vc6G-9TrFRdQwlluOMDok/export/ppt)
 
-[PDF](https://docs.google.com/presentation/d/1BLgdH1C5cl-LUqHG9mYwxMXmirpFa_FYt88MfQdC3Ig/export/pdf)
+[PDF](https://docs.google.com/presentation/d/1gPFh-97zQW-VzzClwgGQl_Vc6G-9TrFRdQwlluOMDok/export/pdf)
 
