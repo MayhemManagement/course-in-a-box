@@ -15,6 +15,6 @@ Download presentation:
 
 [Powerpoint](https://docs.google.com/presentation/d/1sYFHsXOt4qsoXHijRk8ihiFjoFvfHcDXrkMd9qDQlqE/export/ppt)
 
-* Disclaimer * We recommend you download the slides as a PDF as powerpoint can change the formating of the slides from what was intented
-
 [PDF](https://docs.google.com/presentation/d/1sYFHsXOt4qsoXHijRk8ihiFjoFvfHcDXrkMd9qDQlqE/export/pdf)
+
+** Disclaimer ** We recommend you download the slides as a PDF as powerpoint can change the formating of the slides from what was intented
